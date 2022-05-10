@@ -10,8 +10,9 @@ import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
+const val REQUEST_CODE = 11
+
 class MainActivity : AppCompatActivity() {
-    private val REQUEST_CODE = 11
     private var type = 0
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
