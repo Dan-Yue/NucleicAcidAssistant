@@ -1,0 +1,2 @@
+# NucleicAcidAssistant
+Self-use
