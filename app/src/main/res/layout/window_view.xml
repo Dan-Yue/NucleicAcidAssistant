@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/window_layout"
+    android:layout_width="1080px"
+    android:layout_height="172px">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="1080px"
+        android:layout_height="172px"
+        android:background="@mipmap/img"
+        android:scaleType="fitXY" />
+</LinearLayout>
